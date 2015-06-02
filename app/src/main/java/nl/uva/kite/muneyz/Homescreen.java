@@ -10,7 +10,6 @@ public class Homescreen extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        //teeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeest navid
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_homescreen);
     }
@@ -18,7 +17,6 @@ public class Homescreen extends ActionBarActivity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        // More comments.....
         getMenuInflater().inflate(R.menu.menu_homescreen, menu);
         return true;
     }
