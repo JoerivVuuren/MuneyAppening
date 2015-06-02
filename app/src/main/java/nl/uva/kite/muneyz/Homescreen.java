@@ -10,6 +10,7 @@ public class Homescreen extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        //teeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeest navid
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_homescreen);
     }
